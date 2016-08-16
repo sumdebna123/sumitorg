@@ -1,5 +1,5 @@
 class HelloWorld{
-	public static void main(){
+	public static void main(String args[]){
 		//This is a demo change
 		
 		System.out.println("Hello World");
